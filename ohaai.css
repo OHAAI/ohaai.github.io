@@ -42,7 +42,7 @@ body {
 }
 
 .footer {
-  position:fixed;
+  position:static;
   height: 100px;
   left: 0;
   bottom: 0;
@@ -74,7 +74,7 @@ body {
 }
 
 .footbanner {
-  position: fixed;
+  position: static;
   float: left;
   width: 100%;
   min-width: 200px;
@@ -82,7 +82,7 @@ body {
   color: rgb(21, 67, 96, 1);
 }
 .banner-image {
-  position: fixed;
+  position: static;
   color: rgb(21, 67, 96, 1);
   width: 150px;
   min-width: 150px;
@@ -230,7 +230,7 @@ margin: 0 auto;
 
   background-color: rgb(60, 179, 113, 0.001);
   /*border: 1px solid rgb(21, 67, 96, 1);*/
-  height: 1500px;
+  height: 1200px;
   min-width: 500px;
 }
 
