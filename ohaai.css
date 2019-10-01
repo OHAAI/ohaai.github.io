@@ -42,7 +42,7 @@ body {
 }
 
 .footer {
-  position:relative;
+  position:fixed;
   height: 100px;
   left: 0;
   bottom: 0;
@@ -74,7 +74,7 @@ body {
 }
 
 .footbanner {
-  position: relative;
+  position: fixed;
   float: left;
   width: 100%;
   min-width: 200px;
@@ -82,7 +82,7 @@ body {
   color: rgb(21, 67, 96, 1);
 }
 .banner-image {
-  position: static;
+  position: fixed;
   color: rgb(21, 67, 96, 1);
   width: 150px;
   min-width: 150px;
