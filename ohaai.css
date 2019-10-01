@@ -42,7 +42,7 @@ body {
 }
 
 .footer {
-  position:static;
+  position:absolute;
   height: 100px;
   left: 0;
   bottom: 0;
