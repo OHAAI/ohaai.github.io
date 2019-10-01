@@ -42,7 +42,7 @@ body {
 }
 
 .footer {
-  position:absolute;
+  position:relative;
   height: 100px;
   left: 0;
   bottom: 0;
@@ -74,7 +74,7 @@ body {
 }
 
 .footbanner {
-  position: absolute;
+  position: relative;
   float: left;
   width: 100%;
   min-width: 200px;
