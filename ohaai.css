@@ -221,6 +221,8 @@ margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
   grid-template-rows: 100%;
+  background-image: url(img/wordcloud6.png);
+
 }
 
 .centralcolumn {
@@ -230,10 +232,10 @@ margin: 0 auto;
   min-width: 500px;
 }
 
-.leftcolumn {
+/*.leftcolumn {
  background-image: url(img/wordcloud6b.png);
 }
 
 .rightcolumn {
  background-image: url(img/wordcloud6a.png);
-}
+}*/
