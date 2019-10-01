@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768" width="1024px" height="768px">
+<defs>
+<style type="text/css"> @import url(https://fonts.googleapis.com/css?family=Archivo+Narrow:400:latin-ext); </style>
+</defs>
+<clipPath id="cp1">
+<path fill-rule="evenodd" d="M 0 0 L 1024 0 L 1024 768 L 0 768 Z M 0 0 L 1197 0 L 1197 896 L 0 896 Z" />
+</clipPath>
+<g clip-path="url(#cp1)" />
+<rect opacity="1" fill="rgb(255, 255, 255)" fill-opacity="1" stroke="none" x="0" y="0" width="1197" height="896" />
+<text style="font: normal 83.630064px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(513 384) rotate(-12.9872)" x="-221.03" y="8.363" dy="33.0554">argumentation</text>
+<text style="font: normal 77.65648800000001px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(492 309)" x="-113.265" y="7.7642" dy="30.6943">abstract</text>
+<text style="font: normal 65.70933600000001px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(549 453)" x="-127.31" y="6.5627" dy="25.9721">arguments</text>
+<text style="font: normal 59.735760000000006px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(513 504)" x="-126.55" y="5.9736" dy="23.611">frameworks</text>
+<text style="font: normal 65.70933600000001px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(492 255)" x="-113.835" y="6.5627" dy="25.9721">argument</text>
+<text style="font: normal 59.735760000000006px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(672 408)" x="-59.915" y="5.9736" dy="23.611">using</text>
+<text style="font: normal 53.762184000000005px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(360 363)" x="-100.3949" y="5.3762" dy="21.2499">semantics</text>
+<text style="font: normal 53.762184000000005px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(555 219)" x="-79.6" y="5.3762" dy="21.2499">learning</text>
+<text style="font: normal 53.762184000000005px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(672 297)" x="-66.115" y="5.3762" dy="21.2499">games</text>
+<text style="font: normal 47.788608px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(609 540)" x="-87.1749" y="4.7743" dy="18.8888">reasoning</text>
+<text style="font: normal 47.788608px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(345 309) rotate(45.0161)" x="-41.3999" y="4.7743" dy="18.8888">logic</text>
+<text style="font: normal 41.815032px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(429 537)" x="-84.79" y="4.1815" dy="16.5277">persuasion</text>
+<text style="font: normal 41.815032px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(312 486) rotate(16.5343)" x="-74.32" y="4.1815" dy="16.5277">dialogues</text>
+<text style="font: normal 41.815032px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(402 219)" x="-65.75" y="4.1815" dy="16.5277">dialogue</text>
+<text style="font: normal 35.841456px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(660 264)" x="-53.91" y="3.5767" dy="14.1666">systems</text>
+<text style="font: normal 29.867880000000003px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(309 399)" x="-51.055" y="2.9868" dy="11.8055">approach</text>
+<text style="font: normal 29.867880000000003px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(555 429)" x="-48.9899" y="2.9868" dy="11.8055">networks</text>
+<text style="font: normal 29.867880000000003px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(684 489)" x="-46.96" y="2.9868" dy="11.8055">machine</text>
+<text style="font: normal 29.867880000000003px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(498 357)" x="-33.36" y="2.9868" dy="11.8055">based</text>
+<text style="font: normal 23.894304px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(465 192)" x="-62.535" y="2.3894" dy="9.4444">argumentative</text>
+<text style="font: normal 23.894304px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(291 270) rotate(-22.168)" x="-58.17" y="2.3894" dy="9.4444">programming</text>
+<text style="font: normal 23.894304px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(738 435) rotate(-75.2684)" x="-45.655" y="2.3894" dy="9.4444">framework</text>
+<text style="font: normal 23.894304px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(570 192)" x="-39.6849" y="2.3894" dy="9.4444">preferred</text>
+<text style="font: normal 23.894304px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(684 510)" x="-39.7" y="2.3894" dy="9.4444">bayesian</text>
+<text style="font: normal 23.894304px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(669 234)" x="-32.625" y="2.3894" dy="9.4444">support</text>
+<text style="font: normal 23.894304px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(276 321) rotate(-69.2621)" x="-31.525" y="2.3894" dy="9.4444">privacy</text>
+<text style="font: normal 23.894304px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(495 564)" x="-26.65" y="2.3894" dy="9.4444">action</text>
+<text style="font: normal 23.894304px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(441 564)" x="-25.55" y="2.3894" dy="9.4444">social</text>
+<text style="font: normal 23.894304px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(648 192)" x="-29.37" y="2.3894" dy="9.4444">agents</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(678 213)" x="-40.055" y="1.7884" dy="7.0833">probabilistic</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(300 525)" x="-41.285" y="1.7884" dy="7.0833">acceptability</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(366 567)" x="-46.61" y="1.7884" dy="7.0833">nonmonotonic</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(264 444) rotate(12.6065)" x="-40.055" y="1.7884" dy="7.0833">value-based</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(378 477)" x="-40.475" y="1.7884" dy="7.0833">fundamental</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(360 276) rotate(-69.9595)" x="-26.1549" y="1.7884" dy="7.0833">artificial</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(363 195)" x="-32.69" y="1.7884" dy="7.0833">structured</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(747 381)" x="-31.88" y="1.7884" dy="7.0833">modelling</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(303 234) rotate(-2.66522)" x="-28.2" y="1.7884" dy="7.0833">strategic</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(756 327)" x="-27.785" y="1.7884" dy="7.0833">practical</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(312 345)" x="-27.385" y="1.7884" dy="7.0833">dialectic</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(309 546) rotate(2.71017)" x="-28.185" y="1.7884" dy="7.0833">classical</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(756 447) rotate(-71.6853)" x="-27.8" y="1.7884" dy="7.0833">decision</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(540 291)" x="-29.015" y="1.7884" dy="7.0833">n-person</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(720 258) rotate(-89.9183)" x="-25.7549" y="1.7884" dy="7.0833">account</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(702 459)" x="-23.6999" y="1.7884" dy="7.0833">models</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(276 429)" x="-23.285" y="1.7884" dy="7.0833">system</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(753 348) rotate(-19.6024)" x="-21.25" y="1.7884" dy="7.0833">values</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(315 219)" x="-19.6199" y="1.7884" dy="7.0833">attack</text>
+<text style="font: normal 17.920728px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(711 531) rotate(-8.07322)" x="-12.255" y="1.7884" dy="7.0833">role</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(543 492)" x="-32.085" y="1.1947" dy="4.7222">considerations</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(285 252)" x="-31.545" y="1.1947" dy="4.7222">argumentation</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(759 288)" x="-25.01" y="1.1947" dy="4.7222">realizability</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(438 492)" x="-29.91" y="1.1947" dy="4.7222">reinstatement</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(252 357) rotate(-75.2134)" x="-25.015" y="1.1947" dy="4.7222">intelligence</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(393 294)" x="-19.3" y="1.1947" dy="4.7222">flexibility</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(240 405) rotate(71.6314)" x="-25.56" y="1.1947" dy="4.7222">subtheories</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(768 366)" x="-23.115" y="1.1947" dy="4.7222">alternating</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(672 330)" x="-22.02" y="1.1947" dy="4.7222">dialectical</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(765 306)" x="-24.1999" y="1.1947" dy="4.7222">uncertainty</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(759 492) rotate(5.3568)" x="-22.8349" y="1.1947" dy="4.7222">algorithms</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(453 210)" x="-20.395" y="1.1947" dy="4.7222">transition</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(558 570)" x="-22.84" y="1.1947" dy="4.7222">estimation</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(276 510)" x="-28" y="1.1947" dy="4.7222">enthymemes</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(255 312)" x="-19.3" y="1.1947" dy="4.7222">sceptical</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(606 570)" x="-22.84" y="1.1947" dy="4.7222">coherence</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(780 414)" x="-21.2099" y="1.1947" dy="4.7222">deceptive</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(699 396)" x="-18.76" y="1.1947" dy="4.7222">relations</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(699 474)" x="-20.115" y="1.1947" dy="4.7222">empirical</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(702 198)" x="-23.115" y="1.1947" dy="4.7222">persuadee</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(753 270)" x="-20.6649" y="1.1947" dy="4.7222">argument</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(744 510)" x="-17.675" y="1.1947" dy="4.7222">strength</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(717 552)" x="-20.4" y="1.1947" dy="4.7222">opponent</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(306 201) rotate(1.73381)" x="-19.035" y="1.1947" dy="4.7222">behavior</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(687 444)" x="-14.955" y="1.1947" dy="4.7222">inquiry</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(747 252)" x="-14.955" y="1.1947" dy="4.7222">graphs</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(477 378)" x="-14.955" y="1.1947" dy="4.7222">mining</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(303 321) rotate(-37.8114)" x="-13.595" y="1.1947" dy="4.7222">theory</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(741 528) rotate(29.272)" x="-13.595" y="1.1947" dy="4.7222">neural</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(546 360)" x="-11.15" y="1.1947" dy="4.7222">proof</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(558 420)" x="-11.6899" y="1.1947" dy="4.7222">basic</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(777 462)" x="-12.24" y="1.1947" dy="4.7222">agent</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(600 414)" x="-11.6899" y="1.1947" dy="4.7222">study</text>
+<text style="font: normal 11.947152px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(468 294)" x="-10.88" y="1.1947" dy="4.7222">deep</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(399 393)" x="-25.47" y="0.5868" dy="2.3611">argumentation-enabled</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(237 339) rotate(79.406)" x="-22.4599" y="0.5868" dy="2.3611">context-independent</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(498 351)" x="-21.08" y="0.5868" dy="2.3611">relevance-theoretic</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(441 351)" x="-18.89" y="0.5868" dy="2.3611">characterisations</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(474 441)" x="-17.66" y="0.5868" dy="2.3611">characterization</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(591 351)" x="-20.26" y="0.5868" dy="2.3611">assumption-based</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(738 219) rotate(-88.0313)" x="-16.01" y="0.5868" dy="2.3611">characteristics</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(618 489)" x="-16.695" y="0.5868" dy="2.3611">multiple-valued</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(363 489)" x="-18.205" y="0.5868" dy="2.3611">decision-making</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(267 267) rotate(-12.0396)" x="-17.1099" y="0.5868" dy="2.3611">trust-modulated</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(648 285)" x="-17.375" y="0.5868" dy="2.3611">neural-symbolic</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(648 399)" x="-15.605" y="0.5868" dy="2.3611">characterizing</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(255 405) rotate(81.277)" x="-15.885" y="0.5868" dy="2.3611">representation</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(558 207)" x="-16.1549" y="0.5868" dy="2.3611">deconstructing</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(504 207)" x="-16.565" y="0.5868" dy="2.3611">game-theoretic</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(507 375)" x="-13.82" y="0.5868" dy="2.3611">multi-criteria</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(549 351)" x="-14.37" y="0.5868" dy="2.3611">classification</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(405 207)" x="-14.105" y="0.5868" dy="2.3611">investigating</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(384 243)" x="-15.47" y="0.5868" dy="2.3611">computational</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(489 435)" x="-13.96" y="0.5868" dy="2.3611">collaborative</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(321 417)" x="-13.56" y="0.5868" dy="2.3611">instantiating</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(621 441)" x="-13.55" y="0.5868" dy="2.3611">interlocutors</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(786 390) rotate(82.5022)" x="-13.82" y="0.5868" dy="2.3611">admissibility</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(597 207)" x="-12.87" y="0.5868" dy="2.3611">relationship</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(333 393)" x="-14.24" y="0.5868" dy="2.3611">action-based</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(696 249) rotate(-13.0027)" x="-14.92" y="0.5868" dy="2.3611">implementing</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(354 525)" x="-11.905" y="0.5868" dy="2.3611">storytelling</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(681 285)" x="-13.415" y="0.5868" dy="2.3611">constructing</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(687 525)" x="-13.96" y="0.5868" dy="2.3611">perspectives</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(321 477)" x="-13.69" y="0.5868" dy="2.3611">three-valued</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(780 438) rotate(-26.6875)" x="-12.865" y="0.5868" dy="2.3611">hierarchical</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(303 393)" x="-13.415" y="0.5868" dy="2.3611">construction</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(645 567)" x="-13.825" y="0.5868" dy="2.3611">synthesizing</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(747 339)" x="-13.555" y="0.5868" dy="2.3611">optimization</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(711 327)" x="-12.455" y="0.5868" dy="2.3611">necessities</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(291 465)" x="-12.325" y="0.5868" dy="2.3611">introducing</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(336 279) rotate(-35.5884)" x="-12.1849" y="0.5868" dy="2.3611">exploration</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(336 207)" x="-11.505" y="0.5868" dy="2.3611">identifying</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(300 564) rotate(20.056)" x="-13.69" y="0.5868" dy="2.3611">enforcement</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(657 225)" x="-14.235" y="0.5868" dy="2.3611">model-based</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(711 225)" x="-13.55" y="0.5868" dy="2.3611">experiments</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(759 315)" x="-12.3149" y="0.5868" dy="2.3611">preliminary</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(321 189)" x="-12.33" y="0.5868" dy="2.3611">negotiation</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(771 477)" x="-13.55" y="0.5868" dy="2.3611">presumptive</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(717 483)" x="-12.7249" y="0.5868" dy="2.3611">semi-stable</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(279 222) rotate(-34.7145)" x="-11.7699" y="0.5868" dy="2.3611">likelihoods</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(717 567)" x="-13.005" y="0.5868" dy="2.3611">preferences</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(285 441)" x="-13.415" y="0.5868" dy="2.3611">dimensional</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(273 537)" x="-12.05" y="0.5868" dy="2.3611">application</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(255 501)" x="-12.1849" y="0.5868" dy="2.3611">predictions</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(378 351)" x="-11.5" y="0.5868" dy="2.3611">interactive</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(786 447)" x="-11.78" y="0.5868" dy="2.3611">integrating</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(372 321)" x="-11.36" y="0.5868" dy="2.3611">strategical</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(312 537)" x="-16.01" y="0.5868" dy="2.3611">commonsense</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(252 327)" x="-11.7699" y="0.5868" dy="2.3611">viewpoints</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(228 417) rotate(85.2937)" x="-11.5" y="0.5868" dy="2.3611">multiagent</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(660 441)" x="-11.5" y="0.5868" dy="2.3611">behavioral</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(738 543)" x="-10.4" y="0.5868" dy="2.3611">labellings</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(240 459)" x="-11.6449" y="0.5868" dy="2.3611">adaptation</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(273 393)" x="-13.555" y="0.5868" dy="2.3611">autonomous</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(234 369) rotate(65.6032)" x="-10.8099" y="0.5868" dy="2.3611">multiparty</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(237 453)" x="-12.045" y="0.5868" dy="2.3611">persuasive</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(789 339)" x="-14.375" y="0.5868" dy="2.3611">management</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(702 387)" x="-10.26" y="0.5868" dy="2.3611">collective</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(792 351)" x="-11.7649" y="0.5868" dy="2.3611">complexity</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(759 231) rotate(47.4394)" x="-11.2249" y="0.5868" dy="2.3611">postulates</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(222 351)" x="-11.09" y="0.5868" dy="2.3611">properties</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(294 423)" x="-10.2649" y="0.5868" dy="2.3611">restricted</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(801 426) rotate(22.8244)" x="-10.8149" y="0.5868" dy="2.3611">interfaces</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(243 495)" x="-12.7199" y="0.5868" dy="2.3611">asymmetric</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(726 213) rotate(64.3816)" x="-10.54" y="0.5868" dy="2.3611">discipline</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(762 525)" x="-10.54" y="0.5868" dy="2.3611">dialogical</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(804 387) rotate(56.9957)" x="-11.365" y="0.5868" dy="2.3611">explaining</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(378 189)" x="-9.8499" y="0.5868" dy="2.3611">classifier</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(684 225)" x="-11.365" y="0.5868" dy="2.3611">evaluation</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(672 573)" x="-11.365" y="0.5868" dy="2.3611">defeasible</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(726 561)" x="-9.585" y="0.5868" dy="2.3611">infinitary</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(720 189)" x="-10.8149" y="0.5868" dy="2.3611">extracting</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(768 261)" x="-9.17" y="0.5868" dy="2.3611">labelling</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(777 510) rotate(-22.3715)" x="-10.8099" y="0.5868" dy="2.3611">numerical</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(330 561)" x="-10.135" y="0.5868" dy="2.3611">detection</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(792 321) rotate(-66.2604)" x="-11.91" y="0.5868" dy="2.3611">sequences</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(750 297)" x="-9.3049" y="0.5868" dy="2.3611">versatile</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(249 519) rotate(-15.0879)" x="-9.995" y="0.5868" dy="2.3611">cognitive</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(264 303)" x="-10.8149" y="0.5868" dy="2.3611">statement</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(780 489)" x="-11.085" y="0.5868" dy="2.3611">assessing</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(258 237)" x="-10.135" y="0.5868" dy="2.3611">detecting</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(294 189)" x="-9.99" y="0.5868" dy="2.3611">resolving</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(792 471)" x="-11.365" y="0.5868" dy="2.3611">languages</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(369 399) rotate(39.6339)" x="-10.82" y="0.5868" dy="2.3611">deception</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(240 279)" x="-9.99" y="0.5868" dy="2.3611">prosocial</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(225 303) rotate(-10.5304)" x="-9.58" y="0.5868" dy="2.3611">structure</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(276 555) rotate(61.5414)" x="-10.6799" y="0.5868" dy="2.3611">extension</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(243 261)" x="-12.865" y="0.5868" dy="2.3611">enthymeme</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(750 555)" x="-10.6799" y="0.5868" dy="2.3611">assigning</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(690 189)" x="-9.445" y="0.5868" dy="2.3611">revisited</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(774 357)" x="-10.675" y="0.5868" dy="2.3611">credulous</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(579 417)" x="-8.76" y="0.5868" dy="2.3611">tutorials</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(744 243)" x="-9.445" y="0.5868" dy="2.3611">heuristic</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(765 279)" x="-12.7249" y="0.5868" dy="2.3611">mechanism</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(804 405)" x="-11.7699" y="0.5868" dy="2.3611">knowledge</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(759 540) rotate(-33.4534)" x="-10.8149" y="0.5868" dy="2.3611">prognosis</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(798 441)" x="-11.5" y="0.5868" dy="2.3611">combining</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(216 399)" x="-11.09" y="0.5868" dy="2.3611">procedure</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(216 375)" x="-10.675" y="0.5868" dy="2.3611">epistemic</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(219 339) rotate(36.8761)" x="-10.8149" y="0.5868" dy="2.3611">emotional</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(579 291)" x="-8.62" y="0.5868" dy="2.3611">multiple</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(270 207)" x="-9.45" y="0.5868" dy="2.3611">planning</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(774 249)" x="-9.03" y="0.5868" dy="2.3611">analysis</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(597 423)" x="-8.215" y="0.5868" dy="2.3611">relation</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(411 357)" x="-8.625" y="0.5868" dy="2.3611">bivalent</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(756 219)" x="-9.995" y="0.5868" dy="2.3611">choosing</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(255 543) rotate(14.0577)" x="-9.3099" y="0.5868" dy="2.3611">disputes</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(252 243)" x="-10.13" y="0.5868" dy="2.3611">empathic</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(228 474) rotate(49.5204)" x="-8.76" y="0.5868" dy="2.3611">practice</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(720 573)" x="-9.04" y="0.5868" dy="2.3611">oriented</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(405 399)" x="-7.8" y="0.5868" dy="2.3611">bullshit</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(294 573)" x="-9.445" y="0.5868" dy="2.3611">motivate</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(216 393)" x="-9.8499" y="0.5868" dy="2.3611">overview</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(216 369)" x="-9.71" y="0.5868" dy="2.3611">schwartz</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(213 324) rotate(8.54432)" x="-9.4799" y="0.5868" dy="2.3611">diﬀerent</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(786 273)" x="-9.04" y="0.5868" dy="2.3611">bridging</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(801 369) rotate(49.648)" x="-10.135" y="0.5868" dy="2.3611">extended</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(585 489)" x="-8.76" y="0.5868" dy="2.3611">strategy</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(216 420) rotate(46.3756)" x="-8.9" y="0.5868" dy="2.3611">theories</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(264 219)" x="-9.99" y="0.5868" dy="2.3611">complete</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(804 345)" x="-10.535" y="0.5868" dy="2.3611">examples</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(234 273)" x="-10.41" y="0.5868" dy="2.3611">grounded</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(750 567)" x="-10.675" y="0.5868" dy="2.3611">computes</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(222 291)" x="-9.035" y="0.5868" dy="2.3611">merging</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(411 465)" x="-8.62" y="0.5868" dy="2.3611">towards</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(519 336) rotate(76.1792)" x="-8.215" y="0.5868" dy="2.3611">enforce</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(639 327)" x="-8.755" y="0.5868" dy="2.3611">minimal</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(363 453) rotate(79.9085)" x="-9.3049" y="0.5868" dy="2.3611">compact</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(792 483) rotate(18.8264)" x="-8.4799" y="0.5868" dy="2.3611">reviews</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(465 243)" x="-7.94" y="0.5868" dy="2.3611">actions</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(657 339)" x="-6.85" y="0.5868" dy="2.3611">inhibit</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(375 303)" x="-7.255" y="0.5868" dy="2.3611">beliefs</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(627 495)" x="-7.395" y="0.5868" dy="2.3611">default</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(216 450) rotate(80.9395)" x="-7.115" y="0.5868" dy="2.3611">logical</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(750 201) rotate(80.6122)" x="-9.58" y="0.5868" dy="2.3611">measure</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(309 333)" x="-8.215" y="0.5868" dy="2.3611">general</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(375 207)" x="-8.3549" y="0.5868" dy="2.3611">arguing</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(639 255)" x="-8.62" y="0.5868" dy="2.3611">network</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(270 195)" x="-9.59" y="0.5868" dy="2.3611">dungean</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(807 324) rotate(-62.2271)" x="-8.485" y="0.5868" dy="2.3611">aspects</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(357 243)" x="-7.6699" y="0.5868" dy="2.3611">pattern</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(585 213)" x="-7.25" y="0.5868" dy="2.3611">results</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(771 399)" x="-8.08" y="0.5868" dy="2.3611">change</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(375 531)" x="-6.71" y="0.5868" dy="2.3611">online</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(216 315) rotate(16.0136)" x="-6.845" y="0.5868" dy="2.3611">others</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(729 393)" x="-6.71" y="0.5868" dy="2.3611">taking</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(669 255)" x="-6.57" y="0.5868" dy="2.3611">stable</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(801 459)" x="-6.845" y="0.5868" dy="2.3611">strong</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(663 531)" x="-7.53" y="0.5868" dy="2.3611">shared</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(795 285)" x="-7.395" y="0.5868" dy="2.3611">design</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(393 561)" x="-8.07" y="0.5868" dy="2.3611">markov</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(267 564) rotate(65.2337)" x="-8.075" y="0.5868" dy="2.3611">making</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(816 417) rotate(-23.8109)" x="-6.845" y="0.5868" dy="2.3611">breast</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(705 285)" x="-7.39" y="0.5868" dy="2.3611">cancer</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(249 531)" x="-7.25" y="0.5868" dy="2.3611">survey</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(504 291)" x="-5.8849" y="0.5868" dy="2.3611">types</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(546 393)" x="-5.8799" y="0.5868" dy="2.3611">claim</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(651 207)" x="-6.845" y="0.5868" dy="2.3611">media</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(369 561)" x="-6.71" y="0.5868" dy="2.3611">sound</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(801 297) rotate(-34.4277)" x="-5.8849" y="0.5868" dy="2.3611">value</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(498 429)" x="-4.79" y="0.5868" dy="2.3611">trust</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(474 417)" x="-5.475" y="0.5868" dy="2.3611">trees</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(231 507) rotate(37.2667)" x="-5.8849" y="0.5868" dy="2.3611">issue</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(480 321)" x="-5.745" y="0.5868" dy="2.3611">fuzzy</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(522 321)" x="-4.6549" y="0.5868" dy="2.3611">take</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(675 363) rotate(-68.6112)" x="-3.83" y="0.5868" dy="2.3611">lies</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(354 468) rotate(12.1893)" x="-6.16" y="0.5868" dy="2.3611">game</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#3cb371" stroke="none" text-anchor="start" transform="translate(582 381)" x="-4.6549" y="0.5868" dy="2.3611">nets</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(576 447)" x="-3.97" y="0.5868" dy="2.3611">tool</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(435 327) rotate(58.5934)" x="-3.425" y="0.5868" dy="2.3611">bdi</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#46d488" stroke="none" text-anchor="start" transform="translate(612 339)" x="-4.11" y="0.5868" dy="2.3611">gap</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#1d6696" stroke="none" text-anchor="start" transform="translate(558 303)" x="-3.285" y="0.5868" dy="2.3611">via</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(399 435) rotate(60.5042)" x="-3.83" y="0.5868" dy="2.3611">two</text>
+<text style="font: normal 5.973576px 'Archivo Narrow'" opacity="1" fill="#154360" stroke="none" text-anchor="start" transform="translate(507 393)" x="-2.875" y="0.5868" dy="2.3611">art</text>
+</svg>
