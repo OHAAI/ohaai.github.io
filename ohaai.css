@@ -221,21 +221,21 @@ margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr 2fr 1fr;
   grid-template-rows: 100%;
-  background-image: url(img/wordcloud6.png);
+  /*background-image: url(img/wordcloud6.png);*/
 
 }
 
 .centralcolumn {
   background-color: rgb(60, 179, 113, 0.001);
-  border: 1px solid rgb(21, 67, 96, 1);
+  /*border: 1px solid rgb(21, 67, 96, 1);*/
   height: 1100px;
   min-width: 500px;
 }
 
-/*.leftcolumn {
+.leftcolumn {
  background-image: url(img/wordcloud6b.png);
 }
 
 .rightcolumn {
  background-image: url(img/wordcloud6a.png);
-}*/
+}
