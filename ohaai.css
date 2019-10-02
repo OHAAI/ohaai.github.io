@@ -10,7 +10,8 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: rgb(21, 67, 96, 1);
+  background-color: #154360;
+    opacity: 1;
   display: inline-block;
   position: relative;
   float: left;
@@ -236,8 +237,12 @@ margin: 0 auto;
 
 .leftcolumn {
  background-image: url(img/wordcloud6b.png);
+ height: 1500px;
+ min-width: 500px;
 }
 
 .rightcolumn {
  background-image: url(img/wordcloud6a.png);
+ height: 1500px;
+ min-width: 500px;
 }
