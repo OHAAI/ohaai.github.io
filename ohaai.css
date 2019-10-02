@@ -48,7 +48,8 @@ body {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: rgb(21, 67, 96, 1);
+  background-color: #154360;
+    opacity: 1;
   color: white;
   text-align: center;
 }
