@@ -4,14 +4,13 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-color: rgb(60, 179, 113, 0.18);
+  background-color: rgba(60, 179, 113, 0.18);
 
 }
 
 .topnav {
   overflow: hidden;
-  background-color: #154360;
-    opacity: 1;
+  background-color:rgba(21, 67, 96, 1);
   display: inline-block;
   position: relative;
   float: left;
@@ -32,12 +31,12 @@ body {
 }
 
 .topnav a:hover {
-  background-color: rgb(21, 67, 96, 1);
-  color: rgb(60, 179, 113, 1);
+  background-color: rgba(21, 67, 96, 1);
+  color: rgba(60, 179, 113, 1);
 }
 
 .topnav a.active {
-  background-color: rgb(21, 67, 96, 1);
+  background-color: rgba(21, 67, 96, 1);
   color: white;
 
 }
@@ -48,8 +47,7 @@ body {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: #154360;
-    opacity: 1;
+  background-color: rgba(21, 67, 96, 1);
   color: white;
   text-align: center;
 }
@@ -72,7 +70,7 @@ body {
 .banner {
   width: 100%;
   display: block;
-  color: rgb(21, 67, 96, 1);
+  color: rgba(21, 67, 96, 1);
 }
 
 .footbanner {
@@ -81,11 +79,11 @@ body {
   width: 100%;
   min-width: 200px;
   display: block;
-  color: rgb(21, 67, 96, 1);
+  color: rgba(21, 67, 96, 1);
 }
 .banner-image {
   position: static;
-  color: rgb(21, 67, 96, 1);
+  color: rgba(21, 67, 96, 1);
   width: 150px;
   min-width: 150px;
   max-width: 150px;
@@ -104,16 +102,16 @@ body {
 }
 
 .copyright {
-  background-color: rgb(21, 67, 96, 1);
+  background-color: rgba(21, 67, 96, 1);
   color: white;
   margin-bottom: 0 auto;
   }
 
   .main {
-    color: rgb(21, 67, 96, 1);
+    color: rgba(21, 67, 96, 1);
     /*text-align: left   <--- changed to center*/
     text-align: left; 
-    border: 1px transparent rgb(21, 67, 96, 1);
+    border: 1px transparent rgba(21, 67, 96, 1);
     padding: 10px 20px;
     margin: 10px 30px;
     overflow: visible;
@@ -131,12 +129,12 @@ body {
 
  h2 {
    text-align: center;
-   color: rgb(60, 179, 113, 1);
+   color: rgba(60, 179, 113, 1);
  }
 
 .header {
   position: fixed;
-  background-color: rgb(21, 67, 96, 1);
+  background-color: rgba(21, 67, 96, 1);
   border: 3px transparent black;
   display:inline-block;
   width:100%;
@@ -172,11 +170,11 @@ margin: 0 auto;
 
 .download {
   text-align: center;
-  background-color: rgb(21, 67, 96, 1);
+  background-color: rgba(21, 67, 96, 1);
   color: white;
   width: 120px;
   height: 60px;
-  border: 2px solid rgb(21, 67, 96, 1);
+  border: 2px solid rgba(21, 67, 96, 1);
   padding: 7px 3px;
   float: left;
   margin-left: 65px;
@@ -187,11 +185,11 @@ margin: 0 auto;
 
 .download2 {
   text-align: center;
-  background-color: rgb(21, 67, 96, 1);
+  background-color: rgba(21, 67, 96, 1);
   color: white;
   width: 120px;
   height: 60px;
-  border: 2px solid rgb(21, 67, 96, 1);
+  border: 2px solid rgba(21, 67, 96, 1);
   padding: 7px 3px;
   float:right;
   margin-right: 65px;
@@ -207,11 +205,11 @@ margin: 0 auto;
 
 .submission {
   text-align: center;
-  background-color: rgb(60, 179, 113, 1);
+  background-color: rgba(60, 179, 113, 1);
   color: white;
   width: 320px;
   height: 40px;
-  border: 2px solid rgb(60, 179, 113, 1);
+  border: 2px solid rgba(60, 179, 113, 1);
   padding: 7px 3px;
   margin: 0 auto;
   max-width: 320px;
@@ -230,7 +228,7 @@ margin: 0 auto;
 
 .centralcolumn {
 
-  background-color: rgb(60, 179, 113, 0.001);
+  background-color: rgba(60, 179, 113, 0.001);
   /*border: 1px solid rgb(21, 67, 96, 1);*/
   height: 1500px;
   min-width: 500px;
