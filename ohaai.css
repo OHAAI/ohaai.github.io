@@ -235,13 +235,13 @@ margin: 0 auto;
 }
 
 .leftcolumn {
- background-image: url(img/wordcloud6b.png);
+ background-image: url(img/wordcloud6small.png);
  height: 1500px;
  min-width: 500px;
 }
 
 .rightcolumn {
- background-image: url(img/wordcloud6a.png);
+ background-image: url(img/wordcloud6small.png);
  height: 1500px;
  min-width: 500px;
 }
