@@ -112,7 +112,7 @@ li{
 }
 
 
- /*.download {
+ .download {
   text-align: center;
   background-color: rgba(21, 67, 96, 1);
   color: white;
@@ -138,7 +138,7 @@ li{
   margin-right: 65px;
   max-width: 120px;
   max-height: 60px;
-}
+}*/
 .link{
   color: white;
   text-decoration: none;
