@@ -58,7 +58,7 @@ html {
     padding-top: 50px;
     text-align: justify;
     background: #fff;
-    margin-bottom: 50px;
+    padding-bottom: 70px;
 
 }
 .contact-section {
@@ -145,7 +145,6 @@ li{
   padding: 7px 3px;
   float:left;
   margin-left: 65px;
-  margin-bottom: 30px;
   max-width: 120px;
   max-height: 60px;
 }
