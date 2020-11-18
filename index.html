@@ -10,6 +10,21 @@
 
   gtag('config', 'UA-178115691-1');
 </script>
+  
+  <script>
+/**
+* Function that captures a click on an outbound link in Analytics.
+* This function takes a valid URL string as an argument, and uses that URL string
+* as the event label. Setting the transport method to 'beacon' lets the hit be sent
+* using 'navigator.sendBeacon' in browser that support it.
+*/
+var captureOutboundLink = function(url) {
+   ga('send', 'event', 'outbound', 'click', url, {
+     'transport': 'beacon',
+     'hitCallback': function(){document.location = url;}
+   });
+}
+</script> 
 
 <head>
   <meta charset="utf-8">
@@ -181,7 +196,7 @@ function myFunction() {
           <p>Download the first issue of OHAAI from here:<p>
 
           <div>
-            <a href=" https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farxiv.org%2Fabs%2F2006.12020&amp;data=01%7C01%7Cfederico.castagna%40kcl.ac.uk%7C304b7ae19d204992762a08d8176124bb%7C8370cf1416f34c16b83c724071654356%7C0&amp;sdata=uiHclqD%2FtcN%2BOHUrq5S%2F0Cne5xwUPP%2FVr73tBo1YWrU%3D&amp;reserved=0." target="_blank" style="color:rgba(60, 179, 113, 1); text-decoration:none; font-size:x-large;">OHAAI Volume 1 (2020)</a>
+            <a href=" https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farxiv.org%2Fabs%2F2006.12020&amp;data=01%7C01%7Cfederico.castagna%40kcl.ac.uk%7C304b7ae19d204992762a08d8176124bb%7C8370cf1416f34c16b83c724071654356%7C0&amp;sdata=uiHclqD%2FtcN%2BOHUrq5S%2F0Cne5xwUPP%2FVr73tBo1YWrU%3D&amp;reserved=0." onclick="captureOutboundLink('https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Farxiv.org%2Fabs%2F2006.12020&amp;data=01%7C01%7Cfederico.castagna%40kcl.ac.uk%7C304b7ae19d204992762a08d8176124bb%7C8370cf1416f34c16b83c724071654356%7C0&amp;sdata=uiHclqD%2FtcN%2BOHUrq5S%2F0Cne5xwUPP%2FVr73tBo1YWrU%3D&amp;reserved=0.'); return false;"target="_blank" style="color:rgba(60, 179, 113, 1); text-decoration:none; font-size:x-large;">OHAAI Volume 1 (2020)</a>
           </div>
 
         </div>
