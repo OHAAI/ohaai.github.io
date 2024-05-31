@@ -18,7 +18,7 @@ html {
 }
 
 .welcome-section {
-    height: 100%
+    height: auto;
     width:100%;
     padding-top: 100px;
     text-align: center;
@@ -87,7 +87,7 @@ html {
 
 .OHAAIlogobanner {
  position:static;
- display: inline-block;
+ display: block;
  padding: 15px 10px 15px 15px;
  background: white;
  float:center;
