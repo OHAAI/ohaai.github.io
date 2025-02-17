@@ -41,6 +41,14 @@ html {
   height: auto;
   padding-top: 50px;
   text-align: justify;
+  background: #fff;
+  padding-bottom: 50px;
+}
+
+.preprint-section {
+  height: auto;
+  padding-top: 50px;
+  text-align: justify;
   background: rgba(60, 179, 113, 0.18);
   padding-bottom: 50px;
 }
@@ -64,7 +72,7 @@ html {
 .contact-section {
     height: auto;
     padding-top: 50px;
-    background: #fff;
+    background: rgba(60, 179, 113, 0.18);
     padding-bottom: 50px;
 }
 
