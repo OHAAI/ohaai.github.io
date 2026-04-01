@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tutorial: An Introduction to Computational Argumentation</title>
+<meta name="description" content="OHAAI Argumentation">
+    <link href="sticky-menu2.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+body {
+  margin: 0;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: rgba(21, 67, 96, 1);
+  display: block;
+  width: 100%;
+  position: fixed;
+}
+
+.topnav a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 20px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: rgb(60, 179, 113, 1);
+  /*color: black;*/
+}
+
+.topnav a.active {
+  background-color: rgba(21, 67, 96, 1);
+  color: white;
+}
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a:not(:first-child) {display: none;}
+  .topnav a.icon {
+    float: right;
+    display: block;
+    color: white;
+    /*position: fixed;*/
+  }
+}
+
+@media screen and (max-width: 600px) {
+.topnav.responsive {position: fixed;}
+  .topnav.responsive .icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+}
+
+</style>
+<link href="site.css" rel="stylesheet">
+</head>
+<body class="site-page">
+
+<div class="topnav" id="tutorialTopnav">
+  <a href="#introduction" class="active">HHAI</a>
+  <a href="#practical" class="active">Practical Information</a>
+  <a href="#materials" class="active">Materials</a>
+  <a href="#references" class="active">References</a>
+  <a href="#contact" class="active">Contact</a>
+  <a href="index.html">OHAAI</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i> <!-- make the burger button appear-->
+  </a>
+</div>
+
+<!--script for resizing topmenu  -->
+<script>
+function myFunction() {
+  var x = document.getElementById("tutorialTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+<section id="introduction" class="volumes-section">
+  <h1 style="text-align: center;">
+    Tutorial - HHAI: An Introduction to Computational Argumentation
+  </h1>
+  <div class="container" style="margin-left:20px; margin-right:20px;">
+    <div class="row">
+      <p>
+        When faced with incomplete or inconsistent information, humans reason
+        by using argumentation: by providing arguments for and against a
+        topic and examining the relationships between these arguments, it can
+        be decided which of them are acceptable. Within artificial
+        intelligence (AI), the field of computational argumentation refers
+        to the use of computational methods and tools to construct, analyse,
+        and evaluate arguments in various fields such as law, politics and
+        healthcare, notably for aiding transparent and interactive decision-making.
+        Thanks to its logical foundations and rule-governed mechanisms,
+        argumentation provides the appropriate support for computational
+        reasoning engines, whereas the dialectical nature of argumentation
+        and its similarity with common-sense reasoning makes it easier for
+        users to understand its concepts. Thus, argumentation can be used
+        by an AI system for providing explanations to its users that are
+        close to the human way of thinking.
+      </p>
+      <p>
+        This tutorial delves into the domain of computational argumentation.
+        Designed as a half-day session, the tutorial will be highly
+        interactive, blending traditional lectures with engaging elements
+        like games and demonstrations. Attendees will gain practical
+        insights into how computational argumentation enhances the
+        capabilities of AI systems. By combining theoretical foundations
+        with interactive activities, the tutorial seeks to equip
+        participants with a nuanced understanding of computational
+        argumentation's practical applications and its potential to
+        reshape the landscape of AI reasoning and decision-making.
+        Our tutorial is targeted at students, researchers, and
+        practitioners with an interest in human-centered AI, with no
+        prior knowledge of computational argumentation required. The
+        only requirement is bringing a laptop (or share one between a pair).
+      </p>
+    </div>
+  </div>
+</section>
+
+<section id="practical" class="submit-section">
+    <div class="container" style="margin-left:20px; margin-right:20px;">
+      <div class="row">
+        <h1>Practical information</h1>
+        <p>
+          The workshop will be held at the
+          <a href="https://hhai-conference.org/2024/" target="_blank">
+            third International Conference on
+            Hybrid Human-Artificial Intelligence</a>.
+        </p>
+          <h2>When?</h2>
+          Tuesday 11 June 2024, 9:00 - 13:00
+          <h2>Where?</h2>
+          Malmö University, <i>Niagara</i> building
+          <h2>How to register?</h2>
+          For registration,
+          <a href="https://hhai-conference.org/2024/registration/" target="_blank">
+            see the website of HHAI2024</a>.
+        </div>
+    </div>
+</section>
+
+<section id="materials" class="volumes-section">
+    <div class="container" style="margin-left:20px; margin-right:20px;">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Materials</h1>
+                <h2>Block 1: Argumentation in real life</h2>
+                <a href="media/hhai_tutorial_1.pdf"
+                   target="_blank">Slides</a>
+
+                <h2>Block 2: Structured argumentation</h2>
+                <a href="media/hhai_tutorial_2.pdf"
+                   target="_blank">Slides</a>
+
+                <h2>Block 3: Abstract argumentation</h2>
+                <a href="media/hhai_tutorial_3.pdf"
+                   target="_blank">Slides</a>
+                <br>
+                <a href="https://pyarg.npai.science.uu.nl/22-visualise-aspic"
+                   target="_blank">PyArg web interface for solving problems
+                    in computational argumentation
+                </a>
+
+                <h2>Block 4: Dialogue protocols and explanation</h2>
+                <a href="media/hhai_tutorial_4.pdf"
+                   target="_blank">Slides</a>
+
+                <h2>Block 5: Argument mining</h2>
+                <a href="media/hhai_tutorial_5.pdf"
+                   target="_blank">Slides</a>
+
+                <h2>Block 6: Argumentation in practice</h2>
+                <a href="media/hhai_tutorial_6.pdf"
+                   target="_blank">Slides</a>
+                <br>
+                <a href="https://aangifte.politie.nl/iaai-preintake/#/"
+                   target="_blank">Argumentation-based system for fraud intake
+                    at the Dutch police
+                </a>
+
+                <h2>Block 7: Discussion and closing</h2>
+                <a href="hhai_tutorial_7.pdf"
+                   target="_blank">Slides</a>
+
+                <br>
+                <br>
+                <a href="hhai_tutorial_tutorial_example.pdf"
+                   target="_blank">Example</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="references" class="submit-section">
+    <div class="container" style="margin-left:20px; margin-right:20px;">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>References</h1>
+                <h2>Handbook of formal argumentation</h2>
+                <p>Baroni, P., Gabbay, D., Giacomin, M., & Van der Torre, L.
+                (Eds.), 2018. <i>Handbook of formal argumentation</i>.
+                College Publications.</p>
+
+                <h2>Abstract argumentation frameworks</h2>
+                <p>Dung, P.M., 1995. On the acceptability of arguments and its
+                fundamental role in nonmonotonic reasoning, logic programming
+                and n-person games. <i>Artificial intelligence</i>, 77(2),
+                pp.321-357.</p>
+
+                <h2>Structured argumentation frameworks</h2>
+                <p>Besnard, P., Garcia, A., Hunter, A., Modgil, S., Prakken, H.,
+                Simari, G. and Toni, F., 2014. Introduction to structured
+                argumentation. <i>Argument & Computation</i>, 5(1), pp.1-4.</p>
+
+                <p>Modgil, S. and Prakken, H., 2013. A general account of
+                argumentation with preferences. <i>Artificial
+                Intelligence</i>, 195, pp.361-397.</p>
+
+                <h2>Dialogues</h2>
+                <p>Walton, D. and Krabbe, E.C., 1995. <i>Commitment in dialogue:
+                Basic concepts of interpersonal reasoning</i>. SUNY press.</p>
+
+                <h2>Argumentation and explainable AI</h2>
+                <p>Vassiliades, A., Bassiliades, N. and Patkos, T., 2021.
+                Argumentation and explainable artificial intelligence:
+                a survey. <i>The Knowledge Engineering Review</i>, 36, p.e5.</p>
+
+                <h2>Argument mining</h2>
+                <p>Lawrence, J. and Reed, C., 2020. Argument mining: A survey.
+                <i>Computational Linguistics</i>, 45(4), pp.765-818.</p>
+
+                <p>Cabrio, E., & Villata, S. (2018). Five years of argument
+                mining: a data-driven analysis. In <i>Twenty-Seventh
+                International Joint Conference on Artificial Intelligence</i>
+                pp. 5427–5433.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="contact" class="volumes-section">
+    <div class="container" style="margin-left:20px; margin-right:20px;">
+        <div class="row">
+            <div class="col-lg-12">
+                <h1>Contact Us</h1>
+                <h2>Organisers</h2>
+                <p><strong>Elfia Bezou Vrakatseli</strong>, elfia.bezou-vrakatseli@inria.fr</p>
+                <p><strong>Daphne Odekerken</strong>, d.odekerken@uu.nl</p>
+                <p><strong>Andreas Xydis</strong>, axydis@lincoln.ac.uk</p>
+
+                <p>If you have any questions regarding OHAAI, please contact us at:</p>
+                <h2>communications@ohaai.co.uk </h2>
+
+                <div class="contact-actions">
+                <a href="https://x.com/OHAAIproject" class="social-link x-link" target="_blank" rel="noopener noreferrer" aria-label="OHAAI on X"><span class="x-logo" aria-hidden="true">X</span></a>
+                <a href="https://www.linkedin.com/company/online-handbook-argumentation-ai" class="social-link linkedin-link" target="_blank" rel="noopener noreferrer" aria-label="OHAAI on LinkedIn"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+</body>
+
+<foot>
+ <div class="footer">
+  <div class="footbanner">
+    <div class="copyright">
+      Copyright OHAAI © 2026. All Rights Reserved.</div>
+  </div>
+ </div>
+</foot>
+</html>
